@@ -1,0 +1,16 @@
+{
+    // "python.autoComplete.extraPaths": [
+    //     "../helpers"
+    // ],
+    "python.terminal.activateEnvInCurrentTerminal": true,
+    "python.createEnvironment.trigger": "off",
+    "autoDocstring.docstringFormat": "pep257",
+    "jupyter.widgetScriptSources": [
+        "jsdelivr.com",
+        "unpkg.com"
+    ],
+    "makefile.configureOnOpen": true,
+    "markdown.occurrencesHighlight.enabled": true,
+    "markdown.suggest.paths.enabled": false,
+    "npm.exclude": ""
+}
