@@ -1,7 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
-plt.style.use('../deeplearning.mplstyle')
+plt.style.use('./ml_specialization_coursera/deeplearning.mplstyle')
 from matplotlib import cm
 import matplotlib.colors as colors
 
