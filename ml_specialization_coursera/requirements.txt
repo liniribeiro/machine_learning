@@ -14,5 +14,8 @@ jupyterlab-widgets==3.0.2
 kaggle
 seaborn
 scikit-learn
-tensorflow
+tensorflow==2.16.1
 keras
+tabulate
+pyvirtualdisplay
+gym
